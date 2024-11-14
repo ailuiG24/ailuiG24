@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Giulia 
+- 👀 I’m interested in programming and technology
+- 🌱 I’m currently learning C++
